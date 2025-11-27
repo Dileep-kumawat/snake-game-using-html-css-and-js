@@ -13,7 +13,7 @@ Features difficulty modes, timer, high-score saving, touch controls for mobile, 
 
 ## 🎮 Live Demo
 
-👉 **Play Now:** []()
+👉 **Play Now:** [https://dileep-kumawat.github.io/snake-game-using-html-css-and-js/](https://dileep-kumawat.github.io/snake-game-using-html-css-and-js/)
 
 ---
 
